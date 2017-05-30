@@ -18,3 +18,10 @@ Definition of an Algorithm:
 <br>
 **Declarative Knowledge** vs. **Imperative Knowledge**: Knowing something vs. knowing how to do something.
 <br>
+
+In addition to these topics, data types are covered.
+* Strings
+* Ints
+* Floats
+* None
+* Bools
